@@ -9,56 +9,14 @@ Here at SwoleMates we are passionate about two things: Getting swole and finding
 
 ## Table of Contents
 1. [ Description. ](#descsection)
-2. [ User Story. ](#usersection)
-3. [ Acceptance Criteria. ](#acceptancesection)
-4. [ Installation. ](#installsection)
-5. [ License. ](#licensesection)
-6. [ Contributing. ](#contribsection)
-7. [ Tests. ](#testsection)
-8. [ Questions. ](#questionssection)
-9. [ Screenshots. ](#picsection)
-10. [ Links. ](#linksection)
-11. [ Resources/Credit. ](#creditsection)
-
-<a name="usersection"></a>
-## User Story
-```
-AS A swole mate,
-I WANT a site where I can track my exercises, weight, calories, food/recipes, and goals
-SO THAT I can grow my fitness journey and become a swole mate
-```
-
-<a name="acceptancesection"></a>
-## Acceptance Criteria
-```
-Given an unauthenticated user
-WHEN I arrive at the website
-THEN I am presented with a welcome page that transitions to a login page
-IF I don't have an account, I can click sign up and be routed to the sign up page and profile page
-THEN I am able to sign up by entering a unique email and my password twice to ensure they match and are at least 8 characters
-WHEN I have an account, I login with my authentication
-IF I enter my login information, I am rerouted to the home page, else I receive an error that my username and/or password is incorrect
-
-Given an authenticated user
-WHEN I select login, I am routed to the dashboard page
-THEN I am presented with a list of my calorie chart, current weight, my fitness goal, and inspirational quotes
-WHEN I click on the navigation bar, I am able to go to the food, exercise, mates, or sponsor page
-WHEN I click on 'Food' in the navigation bar 
-THEN I am presented with an option to see weekly meal recipes or view nutrients for single food items or recipes
-WHEN I click on 'Exercise' in the navigation bar 
-THEN I am presented with my logged workouts and am able to log my cardio, strength, and/or stretching sessions
-WHEN I click on 'Mates' in the navigation bar 
-THEN I am presented with my profile card and the ability to search for active user's by e-mail
-WHEN I click on 'Sponsor' in the navigation bar 
-THEN I am presented with a list of exercises I can purchase securely using Stripe payment
-WHEN I go to an invalid route
-THEN I am presented with a 404 error and an option route back to the home page
-WHEN I click logout or am idle on the site for too long
-THEN I am redirected to the login page
-
-WHEN I use this application
-THEN I become my one true swole mate
-```
+2. [ Installation. ](#installsection)
+3. [ License. ](#licensesection)
+4. [ Contributing. ](#contribsection)
+5. [ Tests. ](#testsection)
+6. [ Questions. ](#questionssection)
+7. [ Screenshots. ](#picsection)
+8. [ Links. ](#linksection)
+9. [ Resources/Credit. ](#creditsection)
 
 <a name="installsection"></a>
 ## Installation
